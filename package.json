@@ -1,0 +1,30 @@
+{
+  "name": "decision-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-v": "babel --version",
+    "babel-h": "babel --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidblackwelder/decision-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidblackwelder/decision-maker/issues"
+  },
+  "homepage": "https://github.com/davidblackwelder/decision-maker#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0"
+  }
+}
